@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Hostname to IP
 
 ## Preview
-![image_2023-06-26-021508.png!](img/image_2023-06-26-021508.png)
+![Screenshot_2023-06-26-02-31-25-140.jpg!](img/Screenshot_2023-06-26-02-31-25-140.jpg)
 
 ## 🚀 How to use
 
