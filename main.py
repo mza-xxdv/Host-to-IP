@@ -113,7 +113,7 @@ def get_ip_info(ip_address):
             print("Unknown Error Occurred, Possibly Network Restrictions.")
 
 def cek_lagi():
-        pilihan = input("\nDo you want to check again? (y/t): ")
+        pilihan = input("\nDo you want to check again? (y/n): ")
         if pilihan.lower() == "y":
             main()
         elif pilihan.lower() == "t":
